@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ciao, sono Giuseppe
 
-<!--
-**iTzSulli/iTzSulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perito in Elettronica e Telecomunicazioni
+sto costruendo il mio percorso come sviluppatore web
+dopo anni di esperienza in produzione dove coordino
+un team e regolo processi con molte variabili
 
-Here are some ideas to get you started:
+## Competenze
+HTML · CSS · JavaScript · React · Angular · Node.js · Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Progetti  in corso
+- Portfolio Personale
+- Un  registro di parametri di processo (React + Node.js)
+
+##Contatti
+- Email: giuseppe.saya232@gmail.com
+- LinkedIn: https://www.linkedin.com/in/giuseppe-saya-4b9b101a0/
